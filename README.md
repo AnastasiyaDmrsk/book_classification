@@ -1,4 +1,4 @@
-# CLASIFICACIÓN DE LIBROS POR GÉNERO
+# Clasificaión de Libros por Género
 
 ## Descripción del trabajo
 ### Motivación y objetivos
@@ -6,8 +6,8 @@ Crear un modelo que determine automáticamente el género de un libro (fantasía
 Descripción de las herramientas utilizadas
 
 Dataset de Kaggle:
--	https://www.kaggle.com/datasets/elvinrustam/books-dataset
--	https://www.kaggle.com/datasets/abdallahwagih/books-dataset/data (en este hay menor % de null)
+-	https://www.kaggle.com/datasets/elvinrustam/books-dataset --> null 32% en descripcion
+-	https://www.kaggle.com/datasets/abdallahwagih/books-dataset/data (en este hay menor % de null) --> mejor
 
 ## Desarrollo del trabajo
 
