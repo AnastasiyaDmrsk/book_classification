@@ -51,13 +51,13 @@ Con representaciones Transformers:
 
 ## Resultados
 
-| Modelo                | Accuracy         | F1 Score (ponderado) |
-|------------------------|------------------|----------------------|
-| Naive Bayes           | 0.574            | TODO                 |
-| Regresión Logística   | 0.650               | TODO                 |
-| Random Forest         | 0.663               | TODO                 |
-| SVM                   | 0.710               | TODO                     |
-| **DistilBERT**        | TODO| TODO |
+| Modelo                | Accuracy | F1 Score (ponderado) |
+|------------------------|----------|----------------------|
+| Naive Bayes           | 0.574    | 0.428                |
+| Regresión Logística   | 0.650    | 0.580                |
+| Random Forest         | 0.663    | 0.591                |
+| SVM                   | 0.710    | 0.682                |
+| **DistilBERT**        | 0.824    | 0.813                |
 
 > *Los resultados concretos dependen del entrenamiento, pero en general DistilBERT mostró un rendimiento significativamente superior en términos de F1 Score y generalización.*
 
